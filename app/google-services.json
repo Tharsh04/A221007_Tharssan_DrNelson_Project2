@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "372270189114",
+    "project_id": "feedforward-project2",
+    "storage_bucket": "feedforward-project2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372270189114:android:3abc5a475a40fcc9c70303",
+        "android_client_info": {
+          "package_name": "com.example.a221007_tharssan_drnelson_project2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlSLWRT93In56D3-26l0-INlWz0oLjJUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
