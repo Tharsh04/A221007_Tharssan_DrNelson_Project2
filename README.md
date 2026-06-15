@@ -178,7 +178,17 @@ Tharssan A/L Karunamoorthy
 
 **Instructor:** Dr.Nelson
 
+---
 
+**Project Links**
+
+**GitHub Repository:**
+https://github.com/Tharsh04/A221007_Tharssan_DrNelson_Project2.git
+
+**e-Portfolio Website:**
+https://tharsh04.github.io/Tharsh04-eportfolio/
+
+---
 
 ---
 
